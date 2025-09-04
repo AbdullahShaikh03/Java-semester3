@@ -27,4 +27,5 @@ public class Main {
         student1.displayDetails();
         student2.displayDetails();
     }
+
 }
